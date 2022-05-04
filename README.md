@@ -5,5 +5,8 @@ Test 2 include index2.html and results.html.
 
 Installation  
 npm install -g live-server  
-Start Live Server
+or  
+install live server extention from VSC  
+Start Live Server  
+
 
